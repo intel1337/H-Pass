@@ -11,7 +11,7 @@
 
 ### Screenshot
 
-![image](https://user-images.githubusercontent.com/93615583/230535691-047043f1-c2f9-4d67-be98-8613cdb0d123.png)
+![image](https://user-images.githubusercontent.com/93615583/230536426-b7b4a9a8-d769-4a83-973f-348819dd1735.png)
 
 # Concept 
 
@@ -22,7 +22,9 @@
 # Config
 
 1 - Open setup.bat
+-
 or
+-
 1 - open a shell in the folder and type pip install -r requirements.txt
 
 ## Start 
