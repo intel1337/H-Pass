@@ -37,9 +37,7 @@ def main():
         enc = input("Enter path to the file you want to encode :")
         file_path = enc
         with open(file_path, "rb") as file:
-            # read the file's content
             file_content = file.read()
-            # encode the content in base64
             encoded_content = base64.b64encode(file_content)
         with open(file_path, "wb") as file:
             file.write(encoded_content)
